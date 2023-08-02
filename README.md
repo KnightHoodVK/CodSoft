@@ -27,3 +27,9 @@ and organize their tasks efficiently.
 A **Calculator** performing simple arithmatic calculations.
 
 ![Calculator](https://onedrive.live.com/embed?resid=D59B8CEFF4DC7B57%211733&authkey=%21ADRHIE7k7URX66s&width=305&height=249)
+
+### Task 3
+
+A **Password Generator** is a useful tool that generates strong and random passwords for users.
+
+![Password Generator](https://onedrive.live.com/embed?resid=D59B8CEFF4DC7B57%211734&authkey=%21ALB3JZV5HidlsaI&width=350&height=416)
