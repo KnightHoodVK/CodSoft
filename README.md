@@ -33,3 +33,9 @@ A **Calculator** performing simple arithmatic calculations.
 A **Password Generator** is a useful tool that generates strong and random passwords for users.
 
 ![Password Generator](https://onedrive.live.com/embed?resid=D59B8CEFF4DC7B57%211734&authkey=%21ALB3JZV5HidlsaI&width=350&height=416)
+
+### Task 4
+
+The application will provide current weather information, including temperature, humidity, wind speed, and a short description of the weather conditions.
+
+![Weather Forecast](https://onedrive.live.com/embed?resid=D59B8CEFF4DC7B57%211746&authkey=%21AOtNCzL4TZJ79J4&width=624&height=224)
