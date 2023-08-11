@@ -39,3 +39,10 @@ A **Password Generator** is a useful tool that generates strong and random passw
 The application will provide current weather information, including temperature, humidity, wind speed, and a short description of the weather conditions.
 
 ![Weather Forecast](https://onedrive.live.com/embed?resid=D59B8CEFF4DC7B57%211746&authkey=%21AOtNCzL4TZJ79J4&width=624&height=224)
+
+
+### Task 5
+
+The quiz keeps track of scores, provide feedback on correct/incorrect answers, and offers a variety of questions to make it challenging and engaging.
+
+![Quiz](https://onedrive.live.com/embed?resid=D59B8CEFF4DC7B57%211747&authkey=%21AAuk2mdbBVgYd2I&width=502&height=414)
